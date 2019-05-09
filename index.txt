@@ -4,6 +4,7 @@
     <title>EX 1</title>
   </head>
   <body>
+  <h1>Exercise 1</h1>
     Something for the repo.
   </body>
 </html>
